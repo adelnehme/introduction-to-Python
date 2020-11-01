@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://github.com/adelnehme/introduction-to-python/blob/master/assets/hsbc_datacamp.png?raw=True" width="65%">
-</p>
+
 
 
 ## **Introduction to Python Learning Session**
