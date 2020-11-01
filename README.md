@@ -15,12 +15,13 @@ packages
 
 #### **The Dataset**
 
-The dataset to be used in this session is a CSV file named `telco_churn.csv`, which contains data on telecom customers churning and some of their key behaviors. It contains the following columns:
+The dataset to be used in this session is a CSV file named `telco_churn.csv`, which contains data on a US telecom customers churning and some of their key behaviors. It contains the following columns:
 
 
 - `customerID`: Unique identifier of a customer.
 - `gender`: Gender of customer.
 - `SeniorCitizen`: Binary variable indicating if customer is senior citizen.
+- `State`: State customer is in
 - `Partner`: Binary variable if customer has a partner.
 - `tenure`: Number of weeks as a customer.
 - `PhoneService`: Whether customer has phone service.
