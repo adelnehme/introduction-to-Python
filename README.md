@@ -42,5 +42,4 @@ The dataset to be used in this session is a CSV file named `telco_churn.csv`, wh
 
 - **Question 1:** What are the number of churners vs non-churners?
 - **Question 2:** What is the breakdown of tenure distirbution by churners and non-churners?
-- **Question 3:** Number of people subscribed to add-on services?
-- **Question 4:** What is the average monthly charge per churners vs non churners?
+- **Question 3:** What is the average monthly charge for churners vs non-churners?
